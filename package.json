@@ -7,8 +7,10 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "@ks/kwai-ui": "^4.0.14",
     "@logicflow/core": "^0.7.1",
     "@logicflow/extension": "^0.7.1",
+    "element-plus": "^1.1.0-beta.24",
     "less": "^4.1.2",
     "less-loader": "^10.2.0",
     "vue": "^3.2.16"
